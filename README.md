@@ -1,2 +1,2 @@
-# springAndDatabase-BankAccount
-springAndDatabase-BankAccount
+# springAndDatabase
+springAndDatabase
